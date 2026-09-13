@@ -486,6 +486,7 @@ Features:
 - Guardrail demonstrations
 - Real-time responses
 - Memory persistence
+ ![StreamLit UI](docs/streamlit_interface.png)
 
 ## Project Structure
 ```text
