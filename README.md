@@ -488,7 +488,7 @@ Features:
 - Memory persistence
 
 ## Project Structure
-
+```text
 practo-support-agent/
 
 ├── agent/                 # LangGraph agent and routing logic
@@ -510,7 +510,7 @@ practo-support-agent/
 ├── utils/                 # Utility functions
 ├── README.md
 └── other required files 
-
+```
 (This project's Test scripts are stored alongside their respective modules and/or individual test files were created whenever required
 Examples:
 - memory/test_memory.py
