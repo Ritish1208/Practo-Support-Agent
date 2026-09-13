@@ -1,5 +1,7 @@
 # Practo Support Agent Architecture
 
+```text
+
 User
   ↓
 Streamlit UI
@@ -16,6 +18,7 @@ ChromaDB     MCP Server
         ↓
     Response
 
+```
 
 ## Components
 
