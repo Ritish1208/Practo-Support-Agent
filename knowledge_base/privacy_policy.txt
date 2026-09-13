@@ -1,0 +1,4 @@
+Patient information is handled according to applicable healthcare privacy regulations. 
+Personal and medical records are stored securely and accessed only by authorized personnel. 
+Patient information is not shared with third parties without consent unless required by law. 
+The clinic maintains confidentiality throughout the treatment process.

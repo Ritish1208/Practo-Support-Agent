@@ -1,0 +1,4 @@
+Patients can book appointments through the clinic website, mobile application, or by contacting the reception desk. 
+Appointment requests are confirmed based on doctor availability and clinic schedules. 
+Patients are advised to provide accurate contact information during booking. 
+Appointment confirmations are sent through SMS or email after successful scheduling.
